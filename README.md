@@ -9,7 +9,7 @@ O projeto terá as mesmas funcionalidades que o projeto web mas deve possuir uma
 O layout do projeto está em abexo com esse desafio. O arquivo `.sketch` (no diretório `assets-desafio`) pode ser aberto no Figma, que é uma ferramenta de prototipação online.
 
 Resultado:
-
 <center>
 <img src="demo.gif" height="400">
 </center>
+
